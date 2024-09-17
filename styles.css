@@ -222,3 +222,6 @@ footer {
         width: 120px;
     }
 }
+.bold-text {
+    font-weight: bold;
+}
